@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Ejercicios de vínculos</title>
+</head>
+<body>
+	<a href="https://google.es"</a>
+	<h3>Sección 1</h3>
+	<p>Texto y más texto</p>
+	<h3>Sección 2</h3>
+	<p>Texto y más texto</p>
+	<a name="sec3"
+		<h3>Sección 3</h3></a>
+	<p>Texto y más texto</p>
+	<h3>Sección 4</h3>
+	<p>Texto y más texto</p>
+	<h3>Sección 5</h3>
+	<p>Texto y más texto</p>
+	<a href="http://www.google.es" target= ??????????
+	
+	<--¡"ESPERO A QUE EXPLIQUE CON EL OTRO MÉTODO...A VER SI ASÍ ME ENTERO MÁS--!>
+
+</body>
+</html>
